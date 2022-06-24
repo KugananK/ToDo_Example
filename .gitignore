@@ -1,0 +1,7 @@
+/venv
+__pycache__
+startup.sh
+*.db
+!.gitignore
+!*.py
+!requirements.txt
